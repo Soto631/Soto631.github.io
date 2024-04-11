@@ -1,5 +1,5 @@
 body {
-  background: rgb(65, 73, 115);
+  background: rgb(120, 170, 205);
   color: rgb(0, 0, 0);
   padding: 10px;
   font-family: arial;
@@ -11,7 +11,7 @@ max-width: 800px;
 
 /* navigation menu */
 nav {
-  background: rgb(37, 54, 95);
+  background: rgb(37, 73, 95);
  margin: 0 auto;
  margin-bottom 20px;
   display: flex;
@@ -20,7 +20,7 @@ nav {
 h1 {
   display: flex;
   align-items: center;
-  color: rgb(122, 114, 210);
+  color: rgb(138, 167, 219);
   flex: 1;
   margin: 0;
 }
@@ -55,7 +55,7 @@ main {
 
 /* portfolio styles */
 #interests {
-  border: 4px rgb(55, 79, 122) ridge;
+  border: 4px rgb(16, 63, 151) ridge;
   padding: 8px;
 }
 h2, h3 {
