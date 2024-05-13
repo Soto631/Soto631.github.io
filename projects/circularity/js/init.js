@@ -13,7 +13,7 @@ var init = function (window) {
     window.opspark.makeGame = function() {
         
         window.opspark.game = {};
-        var game = window.opspark.game;
+        let game = window.opspark.game;
         
         ////////////////////////////////////////////////////////////
         ///////////////// PROGRAM SETUP ////////////////////////////
@@ -50,9 +50,7 @@ circles.push(circle);
         In each frame, for every circle, it should redraw that circle
         and check to see if it has drifted off the screen.         
         */
-        function update() {
-            
-                
+        function update() {   
             
             // TODO 4 : Update the circle's position //
             physikz.updatePosition(circles[0]);
