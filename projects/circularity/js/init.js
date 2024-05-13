@@ -20,7 +20,7 @@ var init = function (window) {
         ////////////////////////////////////////////////////////////
         
         // TODO 1 : Declare and initialize our variables
-var circle 
+var circle; 
 var circles = [];
         // TODO 2 : Create a function that draws a circle 
         function drawCircle() { 
@@ -94,7 +94,6 @@ circles.push(circle);
 
             // YOUR TODO 6 CODE ENDS HERE //////////////////////////
         }
-        
         /////////////////////////////////////////////////////////////
         // --- NO CODE BELOW HERE  --- DO NOT REMOVE THIS CODE --- //
         /////////////////////////////////////////////////////////////
